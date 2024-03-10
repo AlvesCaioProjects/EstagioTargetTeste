@@ -1,6 +1,6 @@
 ## Respostas dos exercícios aplicados no processo seletivo do estágio da empresa Target:
 
-1) 105
+1) 91
 2) Resposta no commit.
 3) a- 9; b- 128; c- 50; d- 144; e- 13; f- 27.
 4) Na primeira ida eu ligaria um dos interruptores e deixaria ligado por alguns minutos.
