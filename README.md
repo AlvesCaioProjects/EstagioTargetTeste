@@ -2,7 +2,7 @@
 
 1) 91
 2) Resposta no commit.
-3) a- 9; b- 128; c- 50; d- 144; e- 13; f- 27.
+3) a- 9; b- 128; c- 49; d- 100; e- 13; f- 27.
 4) Na primeira ida eu ligaria um dos interruptores e deixaria ligado por alguns minutos.
 Depois, desligaria e ligaria outro interruptor.
 Deixaria este segundo interruptor ligado enquanto visitaria a sala das lâmpadas.
